@@ -17,11 +17,11 @@ python setup.py install
 ## Datasets
 
 
-Once the datasets are downloaded, add them to the package data folder by running :
+Once the datasets are downloaded, go to the tkbc/ folder and add them to the package data folder by running :
 ```
-python tkbc/process_icews.py
-python tkbc/process_timegran.py --tr 100 --dataset yago11k
-python tkbc/process_timegran.py --tr 1 --dataset wikidata12k
+python process_icews.py
+python process_timegran.py --tr 100 --dataset yago11k
+python process_timegran.py --tr 1 --dataset wikidata12k
 # For wikidata11k and yago12k, change the tr for changing time granularity
 ```
 
