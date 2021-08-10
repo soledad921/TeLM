@@ -13,7 +13,7 @@ import torch
 from models import TKBCModel
 
 
-DATA_PATH = pkg_resources.resource_filename('tkbc', 'data/')
+DATA_PATH = 'data/'
 
 class TemporalDataset(object):
     def __init__(self, name: str):
