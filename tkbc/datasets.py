@@ -1,5 +1,4 @@
-# Copyright (c) Facebook, Inc. and its affiliates.
-#
+
 
 from pathlib import Path
 import pkg_resources
