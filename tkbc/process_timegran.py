@@ -25,8 +25,8 @@ parser.add_argument(
     help="YAGO or Wikdata"
 )
 args = parser.parse_args()
-DATA_PATH = pkg_resources.resource_filename('tkbc', 'data/')
-#DATA_PATH = 'data/'
+
+DATA_PATH = 'data/'
 
 def prepare_dataset_rels(path, name, fact_count):
     """
