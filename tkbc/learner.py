@@ -1,5 +1,3 @@
-# Copyright (c) Facebook, Inc. and its affiliates.
-
 import argparse
 from typing import Dict
 import logging
