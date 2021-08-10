@@ -52,10 +52,10 @@ We refer to the code of TNTComplEx. Thanks for their great contributions!
 ## Citation
 If you use the codes, please cite the following paper:
 
-@inproceedings{xu2021temporal,
-  title={Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings},
-  author={Xu, Chengjin and Chen, Yung-Yu and Nayyeri, Mojtaba and Lehmann, Jens},
-  booktitle={Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
-  pages={2569--2578},
-  year={2021}
-}
+        @inproceedings{xu2021temporal,
+          title={Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings},
+          author={Xu, Chengjin and Chen, Yung-Yu and Nayyeri, Mojtaba and Lehmann, Jens},
+          booktitle={Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+          pages={2569--2578},
+          year={2021}
+        }
