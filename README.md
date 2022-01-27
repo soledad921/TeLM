@@ -1,4 +1,4 @@
-# Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings
+# [Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings](https://aclanthology.org/2021.naacl-main.202.pdf)
 
 
 ## Installation
